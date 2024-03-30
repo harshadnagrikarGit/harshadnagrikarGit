@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Harshad Nagrikar</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
-<img align="right" alt="coding" src="https://miro.medium.com/v2/resize:fit:1400/1*1ojV4epPGRxhZE26dVI4pQ.gif" width="550px">
+<img align="right" alt="coding" src="https://miro.medium.com/v2/resize:fit:1400/1*1ojV4epPGRxhZE26dVI4pQ.gif" width="500px" height="250px">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshadnagrikargit&label=Profile%20views&color=0e75b6&style=flat" alt="harshadnagrikargit" /> </p>
 
