@@ -1,4 +1,4 @@
-[logo](https://cdn.pixabay.com/photo/2017/10/20/01/06/north-star-2869817_1280.jpg)
+![logo](https://www.codecademy.com/resources/blog/wp-content/uploads/2022/12/10-coding-projects-for-beginners-1-1536x714.png)
 <h1 align="center">Hi 👋, I'm Harshad Nagrikar</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
