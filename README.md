@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshadnagrikargit&label=Profile%20views&color=0e75b6&style=flat" alt="harshadnagrikargit" /> </p>
 
-- 👯 I’m looking to collaborate on **Frontend Projects**
+- 👯 I’m looking to collaborate on **Frontend Projects and Web Developement**
 
 - 👨‍💻 All of my projects are available at [https://github.com/harshadnagrikarGit/Portfoilo.git](https://github.com/harshadnagrikarGit/Portfoilo.git)
 
