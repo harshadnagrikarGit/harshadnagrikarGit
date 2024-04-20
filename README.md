@@ -3,9 +3,7 @@
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
 <img align="right" alt="coding" src="https://miro.medium.com/v2/resize:fit:1400/1*1ojV4epPGRxhZE26dVI4pQ.gif" width="480px" height="250px">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshadnagrikargit&label=Profile%20views&color=0e75b6&style=flat" alt="harshadnagrikargit" /> </p>
-
 - 👯 I’m looking to collaborate on **Frontend Projects and Web Developement**
 
 - 👨‍💻 All of my projects are available at [https://github.com/harshadnagrikarGit/Portfoilo.git](https://github.com/harshadnagrikarGit/Portfoilo.git)
